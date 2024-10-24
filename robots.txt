@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gexeroxe.github.io/sitemap/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/mpc/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/BuH/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/lJW/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/Mur/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/wsQ/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/DIM/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/mUe/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/JKY/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/Sog/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/Mqk/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/JjK/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/MZJ/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/SZt/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/yxm/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/HNR/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/cUH/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/DvI/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/kas/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/bVB/sitemap_index.gexeroxe
+Sitemap: https://gexeroxe.github.io/qDf/sitemap_index.gexeroxe
